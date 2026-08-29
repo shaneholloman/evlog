@@ -1,5 +1,12 @@
 # @evlog/cli
 
+## 0.6.1
+
+### Patch Changes
+
+- Updated dependencies [[`c0a0385`](https://github.com/HugoRCD/evlog/commit/c0a03855d476224039154aee46064a38da008836)]:
+  - evlog@2.27.2
+
 ## 0.6.0
 
 ### Minor Changes
